@@ -1,0 +1,7 @@
+type Estudante {
+  id: Int
+  nome: String
+  sobrenome: String
+  idade: Int
+  responsaveis:[Responsavel]
+}

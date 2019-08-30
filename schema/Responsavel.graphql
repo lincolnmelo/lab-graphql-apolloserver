@@ -1,0 +1,6 @@
+type Responsavel {
+  parentesco: String
+  nome: String
+  idade: Int
+  aluno_id: Int
+}
